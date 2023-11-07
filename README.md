@@ -4,7 +4,7 @@ Mots clés : Workflow KNIME, automatisation, fichiers Excel, RGPD.
 
 Projet RH - Dans une entreprise fictive, le département des ressources humaines nous demande de réaliser un processus d'automatisation afin de générer facilement, rapidement et sans connaissance technique :
   1) un fichier Excel unique respectant les normes RGPD et contenant uniquement des informations utiles.
-  2) 5 indicateurs (égalité salariale, différences de temps de travail, répartition des effectifs par catégorie professionelle et par sexe) graphiques
+  2) cinq indicateurs graphiques (égalité salariale, différences de temps de travail, répartition des effectifs par catégorie professionelle et par sexe,etc..) 
 
 Les RH nous demande que le processus fonctionne de la manière suivante :
 
