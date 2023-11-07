@@ -17,7 +17,7 @@ L'objectif a été atteint en utilisant le logiciel KNIME, économisant ainsi un
 Dans le repository, on pourra trouver :
 - Les trois fichiers Excel d'entrée.
 - Le fichier Excel de synthèse de sortie, respectant les RGPD.
-- Des copies d'écran du Workflow KNIME.
+- Des copies d'écran du Workflow KNIME (le format KNIME ne permet pas de partager le Workflow tel quel).
 - Des copies d'écran des indicateurs graphiques générés par le workflow en sortie.
 
 
