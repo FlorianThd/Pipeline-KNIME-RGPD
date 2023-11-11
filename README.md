@@ -21,10 +21,10 @@ Les utilisateurs devaient en outre pouvoir utiliser le processus de manière ré
 L'objectif a été atteint en construisant un workflow via le logiciel KNIME.
 
 Dans le repository, on pourra trouver :
-- Les trois fichiers Excel d'entrée.
-- Le fichier Excel de synthèse de sortie, respectant les RGPD.
+- Les trois fichiers Excel d'entrée (*"Table remuneration", "Table salariés", "Table infos pros"*)
+- Le fichier Excel de synthèse de sortie (*"Synthèse finale"*), respectant les RGPD.
 - Des copies d'écran du Workflow KNIME (le format KNIME ne permet pas de partager le Workflow tel quel sur cette plateforme).
-- Des copies d'écran des indicateurs graphiques générés par le workflow en sortie (Indicateur généré 1, 2, 3, etc).
+- Des copies d'écran des indicateurs graphiques générés par le workflow KNIME en sortie (*"Indicateur généré 1", 2, 3*, etc).
 
 ---
 
