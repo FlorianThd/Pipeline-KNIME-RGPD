@@ -7,7 +7,7 @@
 
 Le projet en quelques mots :
 
-Un département des ressources humaines nous demande d'automatiser le traitement de 3 fichiers Excel qu'ils utilisent régulièrement.
+Un département (fictif) des ressources humaines nous demande d'automatiser le traitement de 3 fichiers Excel qu'ils utilisent régulièrement.
 Ces fichiers Excel sont générés de manière automatique par leur ERP et nécessitent de nombreux retraitements récurrents, notamment pour "gommer" certaines informations sensibles.
 
 Nous avions donc pour mission de construire un processus d'automatisation qui évite au département RH de perdre de précieuses heures à retraiter ces fichiers chaque mois.
