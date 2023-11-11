@@ -1,24 +1,32 @@
-# Pipeline-KNIME-RGPD
+# Automatisation du traitement de fichiers Excel pour un département de Ressources Humaines 📊
 
-Mots clés : Workflow KNIME, automatisation, fichiers Excel, RGPD.
+👨‍🎓 Projet réalisé dans le cadre de la formation diplômante "Data Analyst" d'OpenClassRooms.
+<br>🛠 Mots clés : **normes RGPD, automatisation, KNIME, workflow, Excel.**
 
-Projet RH - Dans une entreprise fictive, le département des ressources humaines nous demande de réaliser un processus d'automatisation afin de générer facilement, rapidement et sans connaissance technique :
-  1) un fichier Excel unique respectant les normes RGPD et contenant uniquement des informations utiles.
-  2) cinq indicateurs graphiques (égalité salariale, différences de temps de travail, répartition des effectifs par catégorie professionelle et par sexe,etc..) 
+---
 
-Les RH nous demande que le processus fonctionne de la manière suivante :
+Le projet en quelques mots :
 
-- En entrée, trois fichiers Excel standards régulièrement utilisés par le service RH contenant de nombreuses informations sur les salariés de l'entreprise sont chargés dans le pipeline.
-- En sortie, le processus génére un fichier Excel de synthèse respectant les normes RGPD, et 5 indicateurs sous une forme graphique, facilement accessible et compréhensible par tous publics.
+Un département des ressources humaines nous demande d'automatiser le traitement de 3 fichiers Excel qu'ils utilisent régulièrement.
+Ces fichiers Excel sont générés de manière automatique par leur ERP et nécessitent de nombreux retraitements récurrents, notamment pour "gommer" certaines informations sensibles.
 
+Nous avions donc pour mission de construire un processus d'automatisation qui évite au département RH de perdre de précieuses heures à retraiter ces fichiers chaque mois.
 
-L'objectif a été atteint en utilisant le logiciel KNIME, économisant ainsi un temps précieux au département des ressources humaines.
+Notre processus devait être capable :
+  1) de générer à partir de ces trois fichiers Excel un fichier Excel final unique respectant les normes RGPD et contenant uniquement des informations utiles.
+  2) cinq indicateurs graphiques (égalité salariale, différences de temps de travail, répartition des effectifs par catégorie professionelle et par sexe, etc) 
+
+Les utilisateurs devaient en outre pouvoir utiliser le processus de manière récurrente, rapidement et sans connaissance technique particulière.
+
+L'objectif a été atteint en construisant un workflow via le logiciel KNIME.
 
 Dans le repository, on pourra trouver :
 - Les trois fichiers Excel d'entrée.
 - Le fichier Excel de synthèse de sortie, respectant les RGPD.
-- Des copies d'écran du Workflow KNIME (le format KNIME ne permet pas de partager le Workflow tel quel).
+- Des copies d'écran du Workflow KNIME (le format KNIME ne permet pas de partager le Workflow tel quel sur cette plateforme).
 - Des copies d'écran des indicateurs graphiques générés par le workflow en sortie.
 
+---
 
-N'hésitez pas à me contacter pour plus de précisions !
+👋 Merci de votre lecture !<br>
+✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions à FlorianData@pm.me
