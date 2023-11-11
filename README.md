@@ -24,7 +24,7 @@ Dans le repository, on pourra trouver :
 - Les trois fichiers Excel d'entrée.
 - Le fichier Excel de synthèse de sortie, respectant les RGPD.
 - Des copies d'écran du Workflow KNIME (le format KNIME ne permet pas de partager le Workflow tel quel sur cette plateforme).
-- Des copies d'écran des indicateurs graphiques générés par le workflow en sortie.
+- Des copies d'écran des indicateurs graphiques générés par le workflow en sortie (Indicateur généré 1, 2, 3, etc).
 
 ---
 
