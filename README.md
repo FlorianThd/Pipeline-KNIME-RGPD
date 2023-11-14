@@ -29,4 +29,4 @@ Dans le repository, on pourra trouver :
 ---
 
 👋 Merci de votre lecture !<br>
-✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions à FlorianData@pm.me
+✏️ N'hésitez pas à me contacter si vous avez des remarques ou questions à fthouraud@pm.me
